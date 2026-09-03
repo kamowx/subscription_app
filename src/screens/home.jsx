@@ -261,6 +261,9 @@ function Home() {
           >
             Добавить подписку
           </button>
+          <a href="/history">
+            <button className="btn btn-warning  ms-3">История</button>
+          </a>
         </div>
 
         <div className="mb-3">
